@@ -1,4 +1,4 @@
-# BikeSharing Case Study
+# Bike Sharing Case Study
 > Problem Statement : A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic.So to accelerate its revenue as soon as the ongoing lockdown comes to an end, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market.
 
 Company wants to know :
